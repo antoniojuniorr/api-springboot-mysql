@@ -1,2 +1,2 @@
 # SpringBoot
-Projeto com SpringBoot do curso devdojo
+Projeto com SpringBoot.
